@@ -1,5 +1,2 @@
-# hello-world
+# A/B Testing Assignment
 
-My name is ----
-
-blablabla
